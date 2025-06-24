@@ -8,7 +8,7 @@
 [![@botpress/sdk](https://img.shields.io/badge/@botpress%2fsdk-black?logo=npm)](https://www.npmjs.com/package/@botpress/sdk)
 [![@botpress/cli](https://img.shields.io/badge/@botpress%2fcli-black?logo=npm)](https://www.npmjs.com/package/@botpress/cli)
 
-[Botpress](https://botpress.com) is the ultimate platform for building **next-generation chatbots** and assistants powered by OpenAI. Start building incredible assistants for your projects or businesses at lightning speed.
+[Botpress](https://botpress.com) это идеальная платформа для создания чат-ботов нового поколения и помощников на базе OpenAI. Начните создавать невероятных помощников для своих проектов или бизнеса с молниеносной скоростью.
 
 [Getting started](#getting-started) •
 [Cloud](https://app.botpress.cloud) •
